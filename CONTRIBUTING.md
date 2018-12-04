@@ -9,8 +9,6 @@ would like you to follow:
 * [Questions and Problems](#qap)
 * [Issues and Bugs](#iab)
 * [Submission Guidelines](#submission)
-* [Coding Rules](#code)
-* [Commit Message Guidelines](#commits)
 
 ## <a name="coc"></a> Code of Conduct
 
@@ -71,9 +69,3 @@ If your pull request is merged
 * Check out the master branch
 * Delete the local branch
 * Update the master with the latest upstream version
-
-## <a name="code"></a> Coding Rules
-
-
-
-## <a href="commits"></a> Commit Message Guidelines
