@@ -64,3 +64,19 @@ Installation of ```face_recognition``` is common for both types and can be accom
 package manager.
 
     $ pip3 install face_recognition
+
+<h1>Use</h1>
+
+In order to run the ```RecognitionPrototype.py```, you need to populate folder ```faceData``` with headshots of yourself
+and/or those you wish to use in the recognition program. This script is written to find a match with a single image, because
+it is a prototype.
+
+You should name your photos according to the following convention:
+
+    your-name001.jpg
+    your-name002.jpg
+    ...
+
+Run script
+
+    $ python3 RecognitionPrototype.py
